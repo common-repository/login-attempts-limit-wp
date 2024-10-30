@@ -1,0 +1,14 @@
+td.blocked-attempts {
+    font-weight: bold;
+    color: #bd081c;
+}
+
+td.allowed-attempts {
+    font-weight: bold;
+    color: #09b83e;
+}
+
+td.center,
+th.center {
+    text-align: center;
+}

@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: LOGIN AND REGISTRATION ATTEMPTS LIMIT\n"
+"Language: de\n"
+
+#: ../includes/LoginManager.php:60
+msgid "You have reached failed login attempts. Please try again after <strong>%s</strong> minutes."
+msgstr "Sie haben Limitation für Anmeldeversuche erreicht. Bitte versuchen Sie es nach <strong>%s</strong> Minuten erneut."
+
+#: ../includes/Menu.php:35, ../includes/Menu.php:36, ../templates/settings-tabs/statistic.php:27
+msgid "Login attempts"
+msgstr "Anmeldeversuche"
+
+#: ../includes/Menu.php:50, ../templates/settings-page.php:6
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: ../includes/Plugin.php:131
+msgid "Plugin author"
+msgstr "Plugin Autor"
+
+#: ../includes/Plugin.php:131
+msgid "Hey you! I'm German, the plugin author of LOGIN ATTEMPTS LIMIT WP."
+msgstr "Hi! Ich bin German, der Plugin-Autor von LOGIN ATTEMPTS LIMIT WP."
+
+#: ../includes/Plugin.php:131
+msgid "Do you like this plugin? Please show your appreciation and rate the plugin. Help me to develop a powerful plugin that will benefit you for a long time."
+msgstr "Gefällt dir dieses Plugin? Drück deine Meinung aus und bewerte das Plugin. Auf diese Weise hilfst du sowohl anderen Menschen als auch mir. Vielen Dank!"
+
+#: ../includes/Plugin.php:131
+msgid "Rate now!"
+msgstr "Jetzt bewerten!"
+
+#: ../includes/Plugin.php:131
+msgid "I have already rated."
+msgstr "Habe ich schon bewertet."
+
+#: ../includes/RegistrationBlogManager.php:66, ../includes/RegistrationUserManager.php:110
+msgid "You have reached registration attempts. Please try again after <strong>%s</strong> minutes."
+msgstr "Sie haben Limitation für Registration erreicht. Bitte versuchen Sie es nach <strong>%s</strong> Minuten erneut."
+
+#: ../templates/settings-page.php:7
+msgid "Statistic"
+msgstr "Statistik"
+
+#: ../templates/settings-tabs/options.php:20
+msgid "Settings were saved."
+msgstr "Einstellungen wurden gespeichert."
+
+#: ../templates/settings-tabs/options.php:24
+msgid "5 minutes"
+msgstr "5 Minuten"
+
+#: ../templates/settings-tabs/options.php:25
+msgid "15 minutes"
+msgstr "15 Minuten"
+
+#: ../templates/settings-tabs/options.php:26
+msgid "30 minutes"
+msgstr "30 Minuten"
+
+#: ../templates/settings-tabs/options.php:27
+msgid "1 hour"
+msgstr "1 Stunde"
+
+#: ../templates/settings-tabs/options.php:28
+msgid "12 hours"
+msgstr "12 Stunden"
+
+#: ../templates/settings-tabs/options.php:29
+msgid "1 day"
+msgstr "1 Tag"
+
+#: ../templates/settings-tabs/options.php:35
+msgid "User login"
+msgstr "Benutzer-Anmeldung"
+
+#: ../templates/settings-tabs/options.php:38
+msgid "Max login attempts"
+msgstr "Maximale Anmeldeversuche"
+
+#: ../templates/settings-tabs/options.php:40
+msgid "If a user for a certain amount of time (%1$s) tries to log in more than %2$d times, then he must take a break of %1$s."
+msgstr "Wenn ein Benutzer für eine bestimmte Zeit (%1$s) sich mehr als %2$d mal anzumelden versucht, muss er eine Pause von %1$s machen."
+
+#: ../templates/settings-tabs/options.php:43
+msgid "Login attempts timeout"
+msgstr "Zeitüberschreitung bei Anmeldeversuchen"
+
+#: ../templates/settings-tabs/options.php:53
+msgid "User registration"
+msgstr "Benutzer Registration"
+
+#: ../templates/settings-tabs/options.php:56, ../templates/settings-tabs/options.php:75
+msgid "Max registration attempts"
+msgstr "Maximale Registrierungsversuche"
+
+#: ../templates/settings-tabs/options.php:58
+msgid "If a user for a certain amount of time (%1$s) tries to register more than %2$d accounts, then he must take a break of %1$s."
+msgstr "Wenn ein Benutzer für eine bestimmte Zeit (%1$s) mehr als %2$d Konten zu registrieren versucht, muss er eine Pause von %1$s machen."
+
+#: ../templates/settings-tabs/options.php:61, ../templates/settings-tabs/options.php:83
+msgid "Registration attempts timeout"
+msgstr "Zeitüberschreitung bei Registrierungsversuchen"
+
+#: ../templates/settings-tabs/options.php:72
+msgid "Blog registration"
+msgstr "Blog-Registrierung"
+
+#: ../templates/settings-tabs/options.php:78
+msgid "If a user for a certain amount of time (%1$s) tries to register more than %2$d blogs, then he must take a break of %1$s."
+msgstr "Wenn ein Benutzer für eine bestimmte Zeit (%1$s) mehr als %2$d Blogs zu registrieren versucht, muss er eine Pause von %1$s machen."
+
+#: ../templates/settings-tabs/options.php:79
+msgid "This option works only in multisite installations. And it can be configured only in main blog."
+msgstr "Diese Option funktioniert nur bei WordPress-Multisite Installation. Und es kann nur im Hauptblog konfiguriert werden."
+
+#: ../templates/settings-tabs/options.php:94
+msgid "White list"
+msgstr "Weiße Liste"
+
+#: ../templates/settings-tabs/options.php:97
+msgid "White list of IPs"
+msgstr "Weiße Liste von IP-Adressen"
+
+#: ../templates/settings-tabs/options.php:99
+msgid "Restrictions will not be applied for users with this IPs. Each IP on the new line."
+msgstr "Für Benutzer mit diesen IPs gelten keine Einschränkungen. Jede IP in der neuen Leitung."
+
+#: ../templates/settings-tabs/statistic.php:21
+msgid "You can see on this page, how mutch times the plugin <b>LOGIN AND REGISTRATION ATTEMPTS LIMIT</b> protected your blog. The 10 most popular attackers are showing."
+msgstr "Auf dieser Seite können Sie sehen, wie oft das Plugin <b>LOGIN AND REGISTRATION ATTEMPTS LIMIT</ b> Ihr Blog geschützt hat. Die 10 beliebtesten Angreifer werden angezeigt."
+
+#: ../templates/settings-tabs/statistic.php:28, ../templates/settings-tabs/statistic.php:53, ../templates/settings-tabs/statistic.php:78
+msgid "Count"
+msgstr "Anzahl"
+
+#: ../templates/settings-tabs/statistic.php:29, ../templates/settings-tabs/statistic.php:54, ../templates/settings-tabs/statistic.php:79
+msgid "Allowed"
+msgstr "Erlaubt"
+
+#: ../templates/settings-tabs/statistic.php:30, ../templates/settings-tabs/statistic.php:55, ../templates/settings-tabs/statistic.php:80
+msgid "Blocked"
+msgstr "Blockiert"
+
+#: ../templates/settings-tabs/statistic.php:31, ../templates/settings-tabs/statistic.php:56, ../templates/settings-tabs/statistic.php:81
+msgid "Last successful attempt"
+msgstr "Letzter erfolgreicher Versuch"
+
+#: ../templates/settings-tabs/statistic.php:52
+msgid "Registration attempts"
+msgstr "Registrierungsversuche"
+
+#: ../templates/settings-tabs/statistic.php:77
+msgid "Create new blog attempts"
+msgstr "Versuche, ein neues Blog zu erstellen"
+
+#: ../templates/settings-tabs/statistic.php:99
+msgid "We don't have any statistic for you. Come back later."
+msgstr "Wir haben keine Statistik für Sie. Komm später zurück."
+
+#: ../templates/settings-tabs/statistic.php:101
+msgid "Clear all tables"
+msgstr "Alle Tabellen leeren"
+
+#: ../templates/settings-tabs/statistic.php:101
+msgid "Reset all data"
+msgstr "Statistik löschen"
+
+#: ../templates/settings-tabs/statistic.php:21
+msgid "You can see on this page, how much times the plugin <b>LOGIN AND REGISTRATION ATTEMPTS LIMIT</b> protected your blog. The 10 most popular attackers are showing."
+msgstr "Auf dieser Seite können Sie sehen, wie oft das Plugin <b>LOGIN AND REGISTRATION ATTEMPTS LIMIT</ b> Ihr Blog geschützt hat. Die 10 beliebtesten Angreifer werden angezeigt."
+

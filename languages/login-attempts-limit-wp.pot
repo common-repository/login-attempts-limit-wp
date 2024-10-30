@@ -1,0 +1,178 @@
+# Copyright (C) 2020 login-attempts-limit-wp
+# This file is distributed under the same license as the login-attempts-limit-wp package.
+msgid ""
+msgstr ""
+"Project-Id-Version: login-attempts-limit-wp\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../includes/LoginManager.php:60
+msgid "You have reached failed login attempts. Please try again after <strong>%s</strong> minutes."
+msgstr ""
+
+#: ../includes/Menu.php:35, ../includes/Menu.php:36, ../templates/settings-tabs/statistic.php:27
+msgid "Login attempts"
+msgstr ""
+
+#: ../includes/Menu.php:50, ../templates/settings-page.php:6
+msgid "Settings"
+msgstr ""
+
+#: ../includes/Plugin.php:131
+msgid "Plugin author"
+msgstr ""
+
+#: ../includes/Plugin.php:131
+msgid "Hey you! I'm German, the plugin author of LOGIN ATTEMPTS LIMIT WP."
+msgstr ""
+
+#: ../includes/Plugin.php:131
+msgid "Do you like this plugin? Please show your appreciation and rate the plugin. Help me to develop a powerful plugin that will benefit you for a long time."
+msgstr ""
+
+#: ../includes/Plugin.php:131
+msgid "Rate now!"
+msgstr ""
+
+#: ../includes/Plugin.php:131
+msgid "I have already rated."
+msgstr ""
+
+#: ../includes/RegistrationBlogManager.php:66, ../includes/RegistrationUserManager.php:110
+msgid "You have reached registration attempts. Please try again after <strong>%s</strong> minutes."
+msgstr ""
+
+#: ../templates/settings-page.php:7
+msgid "Statistic"
+msgstr ""
+
+#: ../templates/settings-tabs/options.php:20
+msgid "Settings were saved."
+msgstr ""
+
+#: ../templates/settings-tabs/options.php:24
+msgid "5 minutes"
+msgstr ""
+
+#: ../templates/settings-tabs/options.php:25
+msgid "15 minutes"
+msgstr ""
+
+#: ../templates/settings-tabs/options.php:26
+msgid "30 minutes"
+msgstr ""
+
+#: ../templates/settings-tabs/options.php:27
+msgid "1 hour"
+msgstr ""
+
+#: ../templates/settings-tabs/options.php:28
+msgid "12 hours"
+msgstr ""
+
+#: ../templates/settings-tabs/options.php:29
+msgid "1 day"
+msgstr ""
+
+#: ../templates/settings-tabs/options.php:35
+msgid "User login"
+msgstr ""
+
+#: ../templates/settings-tabs/options.php:38
+msgid "Max login attempts"
+msgstr ""
+
+#: ../templates/settings-tabs/options.php:40
+msgid "If a user for a certain amount of time (%1$s) tries to log in more than %2$d times, then he must take a break of %1$s."
+msgstr ""
+
+#: ../templates/settings-tabs/options.php:43
+msgid "Login attempts timeout"
+msgstr ""
+
+#: ../templates/settings-tabs/options.php:53
+msgid "User registration"
+msgstr ""
+
+#: ../templates/settings-tabs/options.php:56, ../templates/settings-tabs/options.php:75
+msgid "Max registration attempts"
+msgstr ""
+
+#: ../templates/settings-tabs/options.php:58
+msgid "If a user for a certain amount of time (%1$s) tries to register more than %2$d accounts, then he must take a break of %1$s."
+msgstr ""
+
+#: ../templates/settings-tabs/options.php:61, ../templates/settings-tabs/options.php:83
+msgid "Registration attempts timeout"
+msgstr ""
+
+#: ../templates/settings-tabs/options.php:72
+msgid "Blog registration"
+msgstr ""
+
+#: ../templates/settings-tabs/options.php:78
+msgid "If a user for a certain amount of time (%1$s) tries to register more than %2$d blogs, then he must take a break of %1$s."
+msgstr ""
+
+#: ../templates/settings-tabs/options.php:79
+msgid "This option works only in multisite installations. And it can be configured only in main blog."
+msgstr ""
+
+#: ../templates/settings-tabs/options.php:94
+msgid "White list"
+msgstr ""
+
+#: ../templates/settings-tabs/options.php:97
+msgid "White list of IPs"
+msgstr ""
+
+#: ../templates/settings-tabs/options.php:99
+msgid "Restrictions will not be applied for users with this IPs. Each IP on the new line."
+msgstr ""
+
+#: ../templates/settings-tabs/statistic.php:21
+msgid "You can see on this page, how much times the plugin <b>LOGIN AND REGISTRATION ATTEMPTS LIMIT</b> protected your blog. The 10 most popular attackers are showing."
+msgstr ""
+
+#: ../templates/settings-tabs/statistic.php:28, ../templates/settings-tabs/statistic.php:53, ../templates/settings-tabs/statistic.php:78
+msgid "Count"
+msgstr ""
+
+#: ../templates/settings-tabs/statistic.php:29, ../templates/settings-tabs/statistic.php:54, ../templates/settings-tabs/statistic.php:79
+msgid "Allowed"
+msgstr ""
+
+#: ../templates/settings-tabs/statistic.php:30, ../templates/settings-tabs/statistic.php:55, ../templates/settings-tabs/statistic.php:80
+msgid "Blocked"
+msgstr ""
+
+#: ../templates/settings-tabs/statistic.php:31, ../templates/settings-tabs/statistic.php:56, ../templates/settings-tabs/statistic.php:81
+msgid "Last successful attempt"
+msgstr ""
+
+#: ../templates/settings-tabs/statistic.php:52
+msgid "Registration attempts"
+msgstr ""
+
+#: ../templates/settings-tabs/statistic.php:77
+msgid "Create new blog attempts"
+msgstr ""
+
+#: ../templates/settings-tabs/statistic.php:99
+msgid "We don't have any statistic for you. Come back later."
+msgstr ""
+
+#: ../templates/settings-tabs/statistic.php:101
+msgid "Clear all tables"
+msgstr ""
+
+#: ../templates/settings-tabs/statistic.php:101
+msgid "Reset all data"
+msgstr ""
